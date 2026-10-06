@@ -22,7 +22,7 @@ Thanks for stopping by! I'm an IT Systems & Cloud Support professional (Computer
 
 ### 💻 Software Projects
 
-- **[Personal Portfolio Website](https://github.com/KHUSHICONTRACTOR/Portfolio)**
+- **[Portfolio Website](https://khushicontractor.github.io/)**
 
   * Built a personal website with React.js to showcase my work
   * `React.js` `JavaScript`
